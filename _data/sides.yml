@@ -25,6 +25,9 @@
       modalid: modal_menuiserie_bois_charpentes
     - name: Constructions bois
       modalid: modal_menuiserie_bois_constructions
+    - name: Aménagement de véhicule
+      modalid: modal_menuiserie_bois_vehicule
+      showmodal: true
     previousSide: menuiserie_detail
   - sideid: menuiserie_pvc
     buttons:

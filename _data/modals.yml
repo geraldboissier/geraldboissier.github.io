@@ -58,6 +58,16 @@
   - "images/image2.jpg"
   - "images/image2.jpg"
   - "images/image2.jpg"
+- id: modal_menuiserie_bois_vehicule
+  title: Menuiserie / Bois / Aménagement de véhicule
+  images:
+  - "images/cards/menuiserie/bois/vehicule/DSC02125.JPG"
+  - "images/cards/menuiserie/bois/vehicule/DSC02126.JPG"
+  - "images/cards/menuiserie/bois/vehicule/DSC02127.JPG"
+  - "images/cards/menuiserie/bois/vehicule/DSC02128.JPG"
+  - "images/cards/menuiserie/bois/vehicule/DSC02129.JPG"
+  - "images/cards/menuiserie/bois/vehicule/DSC02130.JPG"
+
 - id: modal_menuiserie_pvc_baies
   title: Menuiserie / PVC / Baies vitrées
   text: >
