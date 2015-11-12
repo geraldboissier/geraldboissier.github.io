@@ -1,0 +1,65 @@
+<div id="section_activites" class="ui vertical center aligned tab segment" data-tab="activites">
+  <div class="ui doubling stackable four column grid container">
+    {% for activite1 in sides %}
+    <div class="column">
+      <div class="ui shape auto" shapeid="{{activite1.sideid}}">
+        <div class="sides">
+          {% if activite1.nextSide %}
+          <div class="side active" sideid="{{activite1.sideid}}" sidetype="1"
+            showside="{{activite1.nextSide}}" shapeid="{{activite1.sideid}}" direction="right">
+            <div class="ui raised secondary segment">
+              <div class="ui header">
+                {{activite1.name}}
+              </div>
+              <i class="big icons">
+                <i class="big thin circle icon"></i>
+                <i class="angle right icon"></i>
+              </i>
+            </div>
+          </div>
+          {% else %}
+          <div class="side active" sideid="{{activite1.sideid}}" sidetype="1" {% if activite1.showmodal %}showmodal="{{activite1.modalid}}"{% endif %}>
+            <div class="ui secondary segment">
+              <div class="ui header">
+                {{activite1.name}}
+              </div>
+              {% if activite1.showmodal %}
+              <i class="big icons">
+                <i class="big thin circle icon"></i>
+                <i class="expand icon"></i>
+              </i>
+              {% endif %}
+            </div>
+          </div>
+          {% endif %}
+          {% for activite2 in activite1.childSides %}
+          <div class="side" sideid="{{activite2.sideid}}" sidetype="2">
+            <div class="ui raised secondary segment">
+              {% for button in activite2.buttons %}
+                {% if button.nextSide %}
+                <div class="ui fluid basic button" showside="{{button.nextSide}}" direction="right" shapeid="{{activite1.sideid}}">
+                  {{button.name}}
+                  <i class="angle right icon"></i>
+                </div>
+                {% else %}
+                <div class="ui fluid basic button" {% if button.showmodal %}showmodal="{{button.modalid}}"{% endif %}>
+                  {{button.name}}
+                  {% if button.showmodal %}
+                    <i class="expand icon"></i>
+                  {% endif %}
+                </div>
+                {% endif %}
+              {% endfor %}
+              <i class="big icons" showside="{{activite2.previousSide}}" direction="left" shapeid="{{activite1.sideid}}">
+                <i class="big thin circle icon"></i>
+                <i class="angle left icon"></i>
+              </i>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,37 @@
+{% for modal in modals %}
+<div class="ui modal" id="{{modal.id}}">
+  <i class="close icon"></i>
+  <div class="header">
+    <span class="ui inverted header">{{modal.title}}</span>
+  </div>
+  <div class="content">
+    {% if modal.text %}
+      <div class="ui horizontal divider">
+        Description
+      </div>
+      <p>{{modal.text}}</p>
+    {% endif %}
+    {% if modal.videos %}
+      <div class="ui horizontal divider">
+        Vidéos
+      </div>
+      {% for video in modal.videos %}
+      <div class="ui embed" data-source="{{video.source}}" data-id="{{video.id}}" data-icon="video"></div>
+      {% endfor %}
+    {% endif %}
+    {% if modal.images %}
+    <div>
+      <div class="ui horizontal divider">
+        Images
+      </div>
+      <img class="ui main massive bordered image" src=""/>
+      <div class="ui small images">
+        {% for image in modal.images %}
+        <img class="ui small bordered rounded image" src="{{image}}"/>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}

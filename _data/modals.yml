@@ -1,0 +1,179 @@
+- id: modal_menuiserie_bois_portes
+  title: Menuiserie / Bois / Portes
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_bois_fenetres
+  title: Menuiserie / Bois / Fenetres
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_bois_escaliers
+  title: Menuiserie / Bois / Escaliers
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_bois_volets
+  title: Menuiserie / Bois / Volets
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_bois_charpentes
+  title: Menuiserie / Bois / Charpentes
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_bois_constructions
+  title: Menuiserie / Bois / Constructions
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_pvc_baies
+  title: Menuiserie / PVC / Baies vitrées
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_pvc_volets
+  title: Menuiserie / PVC / Volets
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_alu_baies
+  title: Menuiserie / ALU / Baies vitrées
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+- id: modal_menuiserie_alu_volets
+  title: Menuiserie / ALU / Volets
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+
+- id: modal_terrassement_terrassement
+  title: Terrassement
+  images:
+  - images/cards/terrassement/IMG_0807.JPG
+  - images/cards/terrassement/IMG_0808.JPG
+  - images/cards/terrassement/IMG_0946.JPG
+  - images/cards/terrassement/IMG_0947.JPG
+  - images/cards/terrassement/IMG_0948.JPG
+  - images/cards/terrassement/IMG_0949.JPG
+  - images/cards/terrassement/IMG_1155.JPG
+  - images/cards/terrassement/IMG_1156.JPG
+  - images/cards/terrassement/IMG_1212.JPG
+  - images/cards/terrassement/IMG_1213.JPG
+  - images/cards/terrassement/IMG_2888.JPG
+- id: modal_terrassement_rammassage
+  title: Rammassage de pierres
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  videos:
+  - source: youtube
+    id: BJz85xFRX3o
+
+
+
+- id: modal_broyage_friches
+  title: Broyage / Friches
+  videos:
+  - source: youtube
+    id: BJz85xFRX3o
+  - source: youtube
+    id: vRy5Ayt8xPk
+- id: modal_broyage_vegetaux
+  title: Broyage / Végétaux
+  images:
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+  - "images/image2.jpg"
+
+
+
+- id: modal_elaguage
+  title: Élaguage
+  images:
+  - images/cards/elaguage/IMG_0622.JPG
+  - images/cards/elaguage/IMG_0623.JPG
+  - images/cards/elaguage/IMG_0624.JPG
+  - images/cards/elaguage/IMG_0625.JPG
+  - images/cards/elaguage/IMG_0626.JPG
+  - images/cards/elaguage/IMG_0627.JPG
+
+
+- id: modal_defrichage
+  title: Défrichage
+  text: >
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+    abc defabc defabc defabc defabc defabc defabc def
+  images:
+  - "images/image4.jpg"
+  - "images/image2.jpg"
+  - "images/image3.jpg"
+  videos:
+  - source: youtube
+    id: BJz85xFRX3o
+
+- id: modal_chauffage
+  title: Bois de chauffage
+  images:
+  - images/cards/chauffage/IMG_0378.JPG
+  - images/cards/chauffage/IMG_0379.JPG
+  - images/cards/chauffage/IMG_0380.JPG
+  - images/cards/chauffage/IMG_0381.JPG

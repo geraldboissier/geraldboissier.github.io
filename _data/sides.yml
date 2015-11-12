@@ -1,0 +1,78 @@
+- name: Menuiserie
+  sideid: menuiserie
+  nextSide: menuiserie_detail
+  childSides:
+  - sideid: menuiserie_detail
+    buttons:
+    - name: Bois
+      nextSide: menuiserie_bois
+    - name: PVC
+      nextSide: menuiserie_pvc
+    - name: ALU
+      nextSide: menuiserie_alu
+    previousSide: menuiserie
+  - sideid: menuiserie_bois
+    buttons:
+    - name: Portes
+      modalid: modal_menuiserie_bois_portes
+    - name: Fenetres
+      modalid: modal_menuiserie_bois_fenetres
+    - name: Escaliers
+      modalid: modal_menuiserie_bois_escaliers
+    - name: Volets
+      modalid: modal_menuiserie_bois_volets
+    - name: Charpentes
+      modalid: modal_menuiserie_bois_charpentes
+    - name: Constructions bois
+      modalid: modal_menuiserie_bois_constructions
+    previousSide: menuiserie_detail
+  - sideid: menuiserie_pvc
+    buttons:
+    - name: Baies vitrées
+      modalid: modal_menuiserie_pvc_baies
+    - name: Volets roulants
+      modalid: modal_menuiserie_pvc_volets
+    previousSide: menuiserie_detail
+  - sideid: menuiserie_alu
+    buttons:
+    - name: Baies vitrées
+      modalid: modal_menuiserie_alu_baies
+    - name: Volets roulants
+      modalid: modal_menuiserie_alu_volets
+    previousSide: menuiserie_detail
+
+- name: Terrassement
+  sideid: terrassement
+  nextSide: terrassement_detail
+  childSides:
+  - sideid: terrassement_detail
+    buttons:
+    - name: Terrassement
+      modalid: modal_terrassement_terrassement
+      showmodal: true
+    - name: Rammassage de pierres
+      modalid: modal_terrassement_rammassage
+    previousSide: terrassement
+
+- name: Broyage
+  sideid: broyage
+  nextSide: broyage_detail
+  childSides:
+  - sideid: broyage_detail
+    buttons:
+    - name: Friches
+      modalid: modal_broyage_friches
+    - name: Végétaux
+      modalid: modal_broyage_vegetaux
+    previousSide: broyage
+- name: Elaguage
+  sideName: elaguage
+  modalid: modal_elaguage
+  showmodal: true
+- name: Défrichage
+  sideName: defrichage
+  modalid: modal_defrichage
+- name: Bois de chauffage
+  sideName: chauffage
+  modalid: modal_chauffage
+  showmodal: true

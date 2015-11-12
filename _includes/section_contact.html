@@ -1,0 +1,41 @@
+<div id="section_contact" class="ui vertical center aligned tab segment" data-tab="contact">
+  <div class="ui doubling stackable four column grid container">
+    <div class="column">
+      <div class="ui centered medium bordered image">
+        <img src="images/IMG_0008.JPG" />
+        <div class="ui blue ribbon label">Gérald Boissier</div>
+      </div>
+    </div>
+    <div class="column">
+      <a class="ui raised secondary segment" href="tel:{{contact.tel}}">
+        <span>
+          <i class="large blue phone icon"></i>
+          {{contact.tel}}
+        </span>
+      </a>
+    </div>
+    <div class="column">
+      <a class="ui raised secondary segment" href="mailto:{{contact.email}}">
+        <span>
+          <i class="large blue mail icon"></i>
+          {{contact.email}}
+        </span>
+      </a>
+    </div>
+    <div class="column">
+      <a class="ui raised secondary segment" href="http://maps.google.fr/maps?f=q&hl=fr&q={{contact.googlemaps}}">
+        <span>
+          <i class="large blue marker icon"></i>
+          {{contact.adresse}}
+        </span>
+      </a>
+    </div>
+  </div>
+  <div class="ui grid container">
+    <div class="computer only one column row">
+      <div class="column">
+        <div class="ui segment" id="googlemap"></div>
+      </div>
+    </div>
+  </div>
+</div>
