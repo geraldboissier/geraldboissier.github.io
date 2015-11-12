@@ -1,33 +1,23 @@
+# - id: modal_defrichage
+#   title: Défrichage
+#   text: >
+#     abc defabc defabc defabc defabc defabc defabc def
+#     abc defabc defabc defabc defabc defabc defabc def
+#     abc defabc defabc defabc defabc defabc defabc def
+#   images:
+#   - "images/image4.jpg"
+#   - "images/image2.jpg"
+#   - "images/image3.jpg"
+#   videos:
+#   - source: youtube
+#     id: BJz85xFRX3o
+
 - id: modal_menuiserie_bois_portes
   title: Menuiserie / Bois / Portes
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_bois_fenetres
   title: Menuiserie / Bois / Fenetres
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_bois_escaliers
   title: Menuiserie / Bois / Escaliers
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_bois_volets
   title: Menuiserie / Bois / Volets
   images:
@@ -37,24 +27,8 @@
   - "images/cards/menuiserie/bois/volets/DSC02010.JPG"
 - id: modal_menuiserie_bois_charpentes
   title: Menuiserie / Bois / Charpentes
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_bois_constructions
   title: Menuiserie / Bois / Constructions
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_bois_vehicule
   title: Menuiserie / Bois / Aménagement de véhicule
   images:
@@ -67,24 +41,8 @@
 
 - id: modal_menuiserie_pvc_baies
   title: Menuiserie / PVC / Baies vitrées
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_pvc_volets
   title: Menuiserie / PVC / Volets
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
 - id: modal_menuiserie_alu_baies
   title: Menuiserie / ALU / Baies vitrées
   images:
@@ -112,27 +70,11 @@
   - images/cards/terrassement/IMG_2888.JPG
 - id: modal_terrassement_rammassage
   title: Rammassage de pierres
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-
-
 
 - id: modal_broyage_friches
   title: Broyage / Friches
 - id: modal_broyage_vegetaux
   title: Broyage / Végétaux
-  images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-
-
 
 - id: modal_elaguage
   title: Élaguage
@@ -147,17 +89,6 @@
 
 - id: modal_defrichage
   title: Défrichage
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-  images:
-  - "images/image4.jpg"
-  - "images/image2.jpg"
-  - "images/image3.jpg"
-  videos:
-  - source: youtube
-    id: BJz85xFRX3o
 
 - id: modal_chauffage
   title: Bois de chauffage
