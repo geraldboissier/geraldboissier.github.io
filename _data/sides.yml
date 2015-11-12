@@ -37,8 +37,10 @@
     buttons:
     - name: Baies vitrées
       modalid: modal_menuiserie_alu_baies
-    - name: Volets roulants
-      modalid: modal_menuiserie_alu_volets
+      showmodal: true
+    - name: Portes
+      modalid: modal_menuiserie_alu_portes
+      showmodal: true
     previousSide: menuiserie_detail
 
 - name: Terrassement

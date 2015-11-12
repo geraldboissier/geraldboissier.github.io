@@ -80,24 +80,14 @@
   - "images/image2.jpg"
 - id: modal_menuiserie_alu_baies
   title: Menuiserie / ALU / Baies vitrées
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
   images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-- id: modal_menuiserie_alu_volets
-  title: Menuiserie / ALU / Volets
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
+  - "images/cards/menuiserie/alu/baies/IMG_1328.JPG"
+- id: modal_menuiserie_alu_portes
+  title: Menuiserie / ALU / Portes
   images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
+  - "images/cards/menuiserie/alu/portes/105-0569_IMG.JPG"
+  - "images/cards/menuiserie/alu/portes/105-0571_IMG.JPG"
+  - "images/cards/menuiserie/alu/portes/105-0576_IMG.JPG"
 
 - id: modal_terrassement_terrassement
   title: Terrassement
