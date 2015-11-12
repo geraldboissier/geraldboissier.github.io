@@ -30,14 +30,11 @@
   - "images/image2.jpg"
 - id: modal_menuiserie_bois_volets
   title: Menuiserie / Bois / Volets
-  text: >
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
-    abc defabc defabc defabc defabc defabc defabc def
   images:
-  - "images/image2.jpg"
-  - "images/image2.jpg"
-  - "images/image2.jpg"
+  - "images/cards/menuiserie/bois/volets/DSC00590.JPG"
+  - "images/cards/menuiserie/bois/volets/DSC02005.JPG"
+  - "images/cards/menuiserie/bois/volets/DSC02008.JPG"
+  - "images/cards/menuiserie/bois/volets/DSC02010.JPG"
 - id: modal_menuiserie_bois_charpentes
   title: Menuiserie / Bois / Charpentes
   text: >
@@ -123,19 +120,11 @@
   - "images/image2.jpg"
   - "images/image2.jpg"
   - "images/image2.jpg"
-  videos:
-  - source: youtube
-    id: BJz85xFRX3o
 
 
 
 - id: modal_broyage_friches
   title: Broyage / Friches
-  videos:
-  - source: youtube
-    id: BJz85xFRX3o
-  - source: youtube
-    id: vRy5Ayt8xPk
 - id: modal_broyage_vegetaux
   title: Broyage / Végétaux
   images:

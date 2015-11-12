@@ -21,6 +21,7 @@
       modalid: modal_menuiserie_bois_escaliers
     - name: Volets
       modalid: modal_menuiserie_bois_volets
+      showmodal: true
     - name: Charpentes
       modalid: modal_menuiserie_bois_charpentes
     - name: Constructions bois
