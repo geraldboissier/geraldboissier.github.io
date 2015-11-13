@@ -1,52 +1,121 @@
-- name: Menuiserie
-  sideid: menuiserie
-  nextSide: menuiserie_detail
+################################################################################
+#                     MENUISERIE EXTERIEURE                                    #
+################################################################################
+- name: Menuiserie extérieure
+  sideid: menuiserie_exterieure
+  nextSide: menuiserie_exterieure_detail
   childSides:
-  - sideid: menuiserie_detail
+  - sideid: menuiserie_exterieure_detail
     buttons:
     - name: Bois
-      nextSide: menuiserie_bois
+      nextSide: menuiserie_exterieure_bois
     - name: PVC
-      nextSide: menuiserie_pvc
-    - name: ALU
-      nextSide: menuiserie_alu
-    previousSide: menuiserie
-  - sideid: menuiserie_bois
+      nextSide: menuiserie_exterieure_pvc
+    - name: Alu
+      nextSide: menuiserie_exterieure_alu
+    previousSide: menuiserie_exterieure
+  ##############################################################################
+  - sideid: menuiserie_exterieure_bois
     buttons:
-    - name: Portes
-      modalid: modal_menuiserie_bois_portes
-    - name: Fenetres
-      modalid: modal_menuiserie_bois_fenetres
-    - name: Escaliers
-      modalid: modal_menuiserie_bois_escaliers
+    - name: Fenêtres et portes-fenêtres
+      modalid: modal_menuiserie_exterieure_bois_fenetres
+      showmodal: true
+    - name: Portes d'entrée
+      modalid: modal_menuiserie_exterieure_bois_portes
+      showmodal: true
     - name: Volets
-      modalid: modal_menuiserie_bois_volets
+      modalid: modal_menuiserie_exterieure_bois_volets
       showmodal: true
-    - name: Charpentes
-      modalid: modal_menuiserie_bois_charpentes
-    - name: Constructions bois
-      modalid: modal_menuiserie_bois_constructions
-    - name: Aménagement de véhicule
-      modalid: modal_menuiserie_bois_vehicule
+    - name: Escaliers
+      modalid: modal_menuiserie_exterieure_bois_escaliers
+    - name: Portails
+      modalid: modal_menuiserie_exterieure_bois_portails
       showmodal: true
-    previousSide: menuiserie_detail
-  - sideid: menuiserie_pvc
+    - name: Constructions bois et charpentes
+      modalid: modal_menuiserie_exterieure_bois_constructions
+      showmodal: true
+    - name: Mobilier urbain
+      modalid: modal_menuiserie_exterieure_bois_mobilier
+      showmodal: true
+    - name: Calbouties
+      modalid: modal_menuiserie_exterieure_bois_calbouties
+      showmodal: true
+    previousSide: menuiserie_exterieure_detail
+  ##############################################################################
+  - sideid: menuiserie_exterieure_pvc
     buttons:
+    - name: Fenêtres et portes-fenêtres
+      modalid: modal_menuiserie_exterieure_pvc_fenetres
     - name: Baies vitrées
-      modalid: modal_menuiserie_pvc_baies
+      modalid: modal_menuiserie_exterieure_pvc_baies
     - name: Volets roulants
-      modalid: modal_menuiserie_pvc_volets
-    previousSide: menuiserie_detail
-  - sideid: menuiserie_alu
+      modalid: modal_menuiserie_exterieure_pvc_volets
+    previousSide: menuiserie_exterieure_detail
+  ##############################################################################
+  - sideid: menuiserie_exterieure_alu
     buttons:
+    - name: Fenêtres et portes-fenêtres
+      modalid: modal_menuiserie_exterieure_alu_fenetres
+      showmodal: true
     - name: Baies vitrées
-      modalid: modal_menuiserie_alu_baies
+      modalid: modal_menuiserie_exterieure_alu_baies
       showmodal: true
-    - name: Portes
-      modalid: modal_menuiserie_alu_portes
+    - name: Volets roulants
+      modalid: modal_menuiserie_exterieure_alu_volets
+    - name: Portails sectionnel
+      modalid: modal_menuiserie_exterieure_alu_portails
       showmodal: true
-    previousSide: menuiserie_detail
-
+    previousSide: menuiserie_exterieure_detail
+################################################################################
+#                     MENUISERIE INTERIEURE                                    #
+################################################################################
+- name: Menuiserie intérieure
+  sideid: menuiserie_interieure
+  nextSide: menuiserie_interieure_detail
+  childSides:
+  - sideid: menuiserie_interieure_detail
+    buttons:
+    - name: Parquets massif
+      modalid: modal_menuiserie_interieure_parquets
+      showmodal: true
+    - name: Plafonds
+      modalid: modal_menuiserie_interieure_plafonds
+      showmodal: true
+    - name: Portes intérieure
+      modalid: modal_menuiserie_interieure_portes
+      showmodal: true
+    - name: Escaliers
+      modalid: modal_menuiserie_interieure_escaliers
+      showmodal: true
+    - name: Cloisons
+      modalid: modal_menuiserie_interieure_cloisons
+      showmodal: true
+    - name: Mobilier d'église
+      modalid: modal_menuiserie_interieure_mobilier_eglise
+      showmodal: true
+    - name: Aménagement de caves
+      modalid: modal_menuiserie_interieure_caves
+      showmodal: true
+    - name: Mobiliers intérieur
+      modalid: modal_menuiserie_interieure_mobilier_interieur
+      showmodal: true
+    previousSide: menuiserie_interieure_detail
+################################################################################
+#                       MENUISERIE (AUTRES)                                    #
+################################################################################
+- name: Menuiserie (autres)
+  sideid: menuiserie_autres
+  nextSide: menuiserie_autres_detail
+  childSides:
+  - sideid: menuiserie_autres_detail
+    buttons:
+    - name: Aménagement de véhicule
+      modalid: modal_menuiserie_autres_vehicule
+      showmodal: true
+    previousSide: menuiserie_autres_detail
+################################################################################
+#                       TERRASSEMENT                                           #
+################################################################################
 - name: Terrassement
   sideid: terrassement
   nextSide: terrassement_detail
@@ -56,28 +125,47 @@
     - name: Terrassement
       modalid: modal_terrassement_terrassement
       showmodal: true
+    - name: Sous-solage
+      modalid: modal_terrassement_soussolage
+    - name: Déneigement
+      modalid: modal_terrassement_deneigement
     - name: Rammassage de pierres
       modalid: modal_terrassement_rammassage
-    previousSide: terrassement
-
+    previousSide: terrassement_detail
+################################################################################
+#                          BROYAGE                                             #
+################################################################################
 - name: Broyage
   sideid: broyage
   nextSide: broyage_detail
   childSides:
   - sideid: broyage_detail
     buttons:
+    - name: Végétaux et plaquettes
+      modalid: modal_broyage_vegetaux
     - name: Friches
       modalid: modal_broyage_friches
-    - name: Végétaux
-      modalid: modal_broyage_vegetaux
-    previousSide: broyage
+    - name: Lamier
+      modalid: modal_broyage_lamier
+    - name: Épareuse (tout terrains)
+      modalid: modal_broyage_epareuse
+    previousSide: broyage_detail
+################################################################################
+#                          ELAGUAGE                                            #
+################################################################################
 - name: Elaguage
   sideName: elaguage
   modalid: modal_elaguage
   showmodal: true
+################################################################################
+#                          DEFRICHAGE                                          #
+################################################################################
 - name: Défrichage
   sideName: defrichage
   modalid: modal_defrichage
+################################################################################
+#                          BOIS DE CHAUFFAGE                                   #
+################################################################################
 - name: Bois de chauffage
   sideName: chauffage
   modalid: modal_chauffage

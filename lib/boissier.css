@@ -78,7 +78,7 @@
 /* All types */
 
 #section_activites .ui.segment {
-  min-height: 19rem;
+  min-height: 25rem;
   padding-top: 2rem;
   border-width: 3px;
 }
