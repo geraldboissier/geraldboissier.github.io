@@ -18,11 +18,7 @@
 #header_image .ui.logo.image {
   display: inline;
   width: 35rem;
-}
-
-#header_image .ui.left.logo.image {
-  transform: translateX(-200) scale(0.95,0.95);
-  animation: all 1000ms linear 2s;
+  transition: all 1s linear 2s;
 }
 
 /*
