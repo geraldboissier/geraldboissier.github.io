@@ -19,31 +19,31 @@
 - id: modal_menuiserie_exterieure_bois_fenetres
   title: Menuiserie extérieure / Bois / Fenêtres et portes-fenêtres
   images:
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2103_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2108_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2130_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/124-2412_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/124-2413_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00586.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00608.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00615.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00616.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00619.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00620.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00622.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00623.jpg
-  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/IMG_2251.jpg
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2103_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2108_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/121-2130_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/124-2412_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/124-2413_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00586.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00608.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00615.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00616.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00619.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00620.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00622.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/DSC00623.JPG
+  - images/cards/menuiserie_exterieure/bois/fenetres_et_portes_fenetres/IMG_2251.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_portes
   title: Menuiserie extérieure / Bois / Portes d'entrée
   images:
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2468_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2472_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2475_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2476_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/garde-ademar6.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/IMG_0937.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/IMG_0939.jpg
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2468_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2472_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2475_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/124-2476_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/garde-ademar6.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/IMG_0937.JPG
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/IMG_0939.JPG
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img467.jpg
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img468.jpg
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img469.jpg
@@ -63,15 +63,15 @@
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img483.jpg
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img484.jpg
   - images/cards/menuiserie_exterieure/bois/portes_d_entree/img485.jpg
-  - images/cards/menuiserie_exterieure/bois/portes_d_entree/pub-boissier.jpg
+  - images/cards/menuiserie_exterieure/bois/portes_d_entree/pub-boissier.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_volets
   title: Menuiserie extérieure / Bois / Volets
   images:
-  - images/cards/menuiserie_exterieure/bois/volets/DSC00590.jpg
-  - images/cards/menuiserie_exterieure/bois/volets/DSC02005.jpg
-  - images/cards/menuiserie_exterieure/bois/volets/DSC02008.jpg
-  - images/cards/menuiserie_exterieure/bois/volets/DSC02010.jpg
+  - images/cards/menuiserie_exterieure/bois/volets/DSC00590.JPG
+  - images/cards/menuiserie_exterieure/bois/volets/DSC02005.JPG
+  - images/cards/menuiserie_exterieure/bois/volets/DSC02008.JPG
+  - images/cards/menuiserie_exterieure/bois/volets/DSC02010.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_escaliers
   title: Menuiserie extérieure / Bois / Escaliers
@@ -79,53 +79,53 @@
 - id: modal_menuiserie_exterieure_bois_portails
   title: Menuiserie extérieure / Bois / Portails
   images:
-  - images/cards/menuiserie_exterieure/bois/portails/100-0005_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/portails/100-0007_IMG.jpg
+  - images/cards/menuiserie_exterieure/bois/portails/100-0005_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/portails/100-0007_IMG.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_constructions
   title: Menuiserie extérieure / Bois / Constructions bois et charpentes
   images:
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/100-0001_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/100-0003_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02986.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02987.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02988.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02989.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02993.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02995.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC06081.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC06082.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1010.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1011.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1012.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1013.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1014.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1015.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1023.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1024.jpg
-  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1326.jpg
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/100-0001_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/100-0003_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02986.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02987.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02988.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02989.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02993.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC02995.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC06081.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/DSC06082.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1010.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1011.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1012.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1013.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1014.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1015.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1023.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1024.JPG
+  - images/cards/menuiserie_exterieure/bois/construction_bois_et_charpentes/IMG_1326.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_mobilier
   title: Menuiserie extérieure / Bois / Mobilier urbain
   images:
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0023_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0024_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0025_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0026_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/DSC05550.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0957.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0958.jpg
-  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0959.jpg
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0023_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0024_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0025_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/100-0026_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/DSC05550.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0957.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0958.JPG
+  - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0959.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_bois_calbouties
   title: Menuiserie extérieure / Bois / Calbouties
   images:
-  - images/cards/menuiserie_exterieure/bois/calibouties/100-0005_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/calibouties/100-0035_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/calibouties/100-0056_IMG.jpg
-  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0001_1.jpg
-  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0002_1.jpg
-  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0009_1.jpg
+  - images/cards/menuiserie_exterieure/bois/calibouties/100-0005_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/calibouties/100-0035_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/calibouties/100-0056_IMG.JPG
+  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0001_1.JPG
+  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0002_1.JPG
+  - images/cards/menuiserie_exterieure/bois/calibouties/DSC_0009_1.JPG
 
 ################################################################################
 ################################################################################
@@ -147,14 +147,14 @@
 - id: modal_menuiserie_exterieure_alu_fenetres
   title: Menuiserie extérieure / Alu / Fenêtres et portes-fenêtres
   images:
-  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0569_IMG.jpg
-  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0571_IMG.jpg
-  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0576_IMG.jpg
+  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0569_IMG.JPG
+  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0571_IMG.JPG
+  - images/cards/menuiserie_exterieure/alu/fenetres_et_portes_fenetres/105-0576_IMG.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_alu_baies
   title: Menuiserie extérieure / Alu / Baies vitrées
   images:
-  - images/cards/menuiserie_exterieure/alu/baies_vitrees/IMG_1328.jpg
+  - images/cards/menuiserie_exterieure/alu/baies_vitrees/IMG_1328.JPG
 ################################################################################
 - id: modal_menuiserie_exterieure_alu_volets
   title: Menuiserie extérieure / Alu / Volets roulants
@@ -162,8 +162,8 @@
 - id: modal_menuiserie_exterieure_alu_portails
   title: Menuiserie extérieure / Alu / Portails sectionnel
   images:
-  - images/cards/menuiserie_exterieure/alu/portails_sectionnel/IMG_0007.jpg
-  - images/cards/menuiserie_exterieure/alu/portails_sectionnel/IMG_0008.jpg
+  - images/cards/menuiserie_exterieure/alu/portails_sectionnel/IMG_0007.JPG
+  - images/cards/menuiserie_exterieure/alu/portails_sectionnel/IMG_0008.JPG
 
 ################################################################################
 #                     MENUISERIE INTERIEURE                                    #
@@ -171,118 +171,118 @@
 - id: modal_menuiserie_interieure_parquets
   title: Menuiserie intérieure / Parquets massif
   images:
-  - images/cards/menuiserie_interieure/parquet_massif/DSC00614.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1657.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1662.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1663.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1664.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1666.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1667.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1670.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1674.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1680.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1681.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1682.jpg
-  - images/cards/menuiserie_interieure/parquet_massif/IMG_1683.jpg
+  - images/cards/menuiserie_interieure/parquet_massif/DSC00614.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1657.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1662.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1663.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1664.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1666.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1667.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1670.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1674.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1680.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1681.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1682.JPG
+  - images/cards/menuiserie_interieure/parquet_massif/IMG_1683.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_plafonds
   title: Menuiserie intérieure / Plafonds
   images:
-  - images/cards/menuiserie_interieure/plafond/121-2119_IMG.jpg
-  - images/cards/menuiserie_interieure/plafond/121-2120_IMG.jpg
+  - images/cards/menuiserie_interieure/plafond/121-2119_IMG.JPG
+  - images/cards/menuiserie_interieure/plafond/121-2120_IMG.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_portes
   title: Menuiserie intérieure / Portes intérieure
   images:
-  - images/cards/menuiserie_interieure/portes_interieure/121-2114_IMG.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/121-2121_IMG.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/DSC01586.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/DSC01588.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/DSC01595.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/DSC01598.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/DSC01600.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/IMG_1162.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/MEMO0001.jpg
-  - images/cards/menuiserie_interieure/portes_interieure/MEMO0007.jpg
+  - images/cards/menuiserie_interieure/portes_interieure/121-2114_IMG.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/121-2121_IMG.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/DSC01586.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/DSC01588.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/DSC01595.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/DSC01598.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/DSC01600.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/IMG_1162.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/MEMO0001.JPG
+  - images/cards/menuiserie_interieure/portes_interieure/MEMO0007.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_escaliers
   title: Menuiserie intérieure / Escaliers
   images:
-  - images/cards/menuiserie_interieure/escaliers/100-0001_IMG_3.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0002_IMG_3.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0003_IMG_3.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0004_IMG_3.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0004_IMG.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0006_IMG_4.jpg
-  - images/cards/menuiserie_interieure/escaliers/100-0007_IMG_5.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05636_DSC05636.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05637_DSC05637.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05638_DSC05638.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05639_DSC05639.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05640_DSC05640.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05641_DSC05641.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05642_DSC05642.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05643_DSC05643.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05644_DSC05644.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05645_DSC05645.jpg
-  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05646_DSC05646.jpg
+  - images/cards/menuiserie_interieure/escaliers/100-0001_IMG_3.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0002_IMG_3.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0003_IMG_3.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0004_IMG_3.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0004_IMG.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0006_IMG_4.JPG
+  - images/cards/menuiserie_interieure/escaliers/100-0007_IMG_5.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05636_DSC05636.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05637_DSC05637.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05638_DSC05638.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05639_DSC05639.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05640_DSC05640.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05641_DSC05641.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05642_DSC05642.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05643_DSC05643.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05644_DSC05644.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05645_DSC05645.JPG
+  - images/cards/menuiserie_interieure/escaliers/100MSD-DSC05646_DSC05646.JPG
   - images/cards/menuiserie_interieure/escaliers/BAT.jpg
   - images/cards/menuiserie_interieure/escaliers/BATIM2.jpg
-  - images/cards/menuiserie_interieure/escaliers/DSC06085.jpg
-  - images/cards/menuiserie_interieure/escaliers/DSC06086.jpg
-  - images/cards/menuiserie_interieure/escaliers/DSC06087.jpg
-  - images/cards/menuiserie_interieure/escaliers/DSC06088.jpg
-  - images/cards/menuiserie_interieure/escaliers/P1020227.jpg
-  - images/cards/menuiserie_interieure/escaliers/P1020228.jpg
-  - images/cards/menuiserie_interieure/escaliers/P1020229.jpg
-  - images/cards/menuiserie_interieure/escaliers/P1020230.jpg
-  - images/cards/menuiserie_interieure/escaliers/P1020231.jpg
-  - images/cards/menuiserie_interieure/escaliers/photo_3.jpg
+  - images/cards/menuiserie_interieure/escaliers/DSC06085.JPG
+  - images/cards/menuiserie_interieure/escaliers/DSC06086.JPG
+  - images/cards/menuiserie_interieure/escaliers/DSC06087.JPG
+  - images/cards/menuiserie_interieure/escaliers/DSC06088.JPG
+  - images/cards/menuiserie_interieure/escaliers/P1020227.JPG
+  - images/cards/menuiserie_interieure/escaliers/P1020228.JPG
+  - images/cards/menuiserie_interieure/escaliers/P1020229.JPG
+  - images/cards/menuiserie_interieure/escaliers/P1020230.JPG
+  - images/cards/menuiserie_interieure/escaliers/P1020231.JPG
+  - images/cards/menuiserie_interieure/escaliers/photo_3.JPG
   - images/cards/menuiserie_interieure/escaliers/sp13_002.jpg
 ################################################################################
 - id: modal_menuiserie_interieure_cloisons
   title: Menuiserie intérieure / Cloisons
   images:
-  - images/cards/menuiserie_interieure/cloisons/IMG_1684.jpg
+  - images/cards/menuiserie_interieure/cloisons/IMG_1684.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_mobilier_eglise
   title: Menuiserie intérieure / Mobilier d'église
   images:
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1133.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1134.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1135.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1136.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1137.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1138.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2402.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2403.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2404.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2405.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2406.jpg
-  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2407.jpg
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1133.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1134.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1135.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1136.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1137.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_1138.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2402.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2403.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2404.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2405.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2406.JPG
+  - images/cards/menuiserie_interieure/mobilier_d_eglise/IMG_2407.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_caves
   title: Menuiserie intérieure / Aménagement de caves
   images:
-  - images/cards/menuiserie_interieure/amenagement_de_cave/100-0016_IMG.jpg
+  - images/cards/menuiserie_interieure/amenagement_de_cave/100-0016_IMG.JPG
 ################################################################################
 - id: modal_menuiserie_interieure_mobilier_interieur
   title: Menuiserie intérieure / Mobiliers intérieur
   images:
-  - images/cards/menuiserie_interieure/mobilier_interieur/100-0035_IMG.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/100MSD-DSC05652_DSC05652.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/100MSD-DSC05654_DSC05654.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/121-2117_IMG.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/121-2126_IMG.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/121-2132_IMG.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/DSC00059.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/DSC00575.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/DSC05527.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0481.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0482.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0483.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0484.jpg
-  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0485.jpg
+  - images/cards/menuiserie_interieure/mobilier_interieur/100-0035_IMG.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/100MSD-DSC05652_DSC05652.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/100MSD-DSC05654_DSC05654.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/121-2117_IMG.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/121-2126_IMG.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/121-2132_IMG.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/DSC00059.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/DSC00575.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/DSC05527.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0481.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0482.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0483.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0484.JPG
+  - images/cards/menuiserie_interieure/mobilier_interieur/IMG_0485.JPG
 
 ################################################################################
 #                       MENUISERIE (AUTRES)                                    #
@@ -290,12 +290,12 @@
 - id: modal_menuiserie_autres_vehicule
   title: Menuiserie (autres) / Aménagement de véhicule
   images:
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02125.jpg
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02126.jpg
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02127.jpg
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02128.jpg
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02129.jpg
-  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02130.jpg
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02125.JPG
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02126.JPG
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02127.JPG
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02128.JPG
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02129.JPG
+  - images/cards/menuiserie_autres/amenagement_vehicule/DSC02130.JPG
 
 ################################################################################
 #                       TERRASSEMENT                                           #
@@ -303,17 +303,17 @@
 - id: modal_terrassement_terrassement
   title: Terrassement / Terrassement
   images:
-  - images/cards/terrassement/terrassement/IMG_0807.jpg
-  - images/cards/terrassement/terrassement/IMG_0808.jpg
-  - images/cards/terrassement/terrassement/IMG_0946.jpg
-  - images/cards/terrassement/terrassement/IMG_0947.jpg
-  - images/cards/terrassement/terrassement/IMG_0948.jpg
-  - images/cards/terrassement/terrassement/IMG_0949.jpg
-  - images/cards/terrassement/terrassement/IMG_1155.jpg
-  - images/cards/terrassement/terrassement/IMG_1156.jpg
-  - images/cards/terrassement/terrassement/IMG_1212.jpg
-  - images/cards/terrassement/terrassement/IMG_1213.jpg
-  - images/cards/terrassement/terrassement/IMG_2888.jpg
+  - images/cards/terrassement/terrassement/IMG_0807.JPG
+  - images/cards/terrassement/terrassement/IMG_0808.JPG
+  - images/cards/terrassement/terrassement/IMG_0946.JPG
+  - images/cards/terrassement/terrassement/IMG_0947.JPG
+  - images/cards/terrassement/terrassement/IMG_0948.JPG
+  - images/cards/terrassement/terrassement/IMG_0949.JPG
+  - images/cards/terrassement/terrassement/IMG_1155.JPG
+  - images/cards/terrassement/terrassement/IMG_1156.JPG
+  - images/cards/terrassement/terrassement/IMG_1212.JPG
+  - images/cards/terrassement/terrassement/IMG_1213.JPG
+  - images/cards/terrassement/terrassement/IMG_2888.JPG
 ################################################################################
 - id: modal_terrassement_soussolage
   title: Terrassement / Sous-solage
@@ -346,12 +346,12 @@
 - id: modal_elaguage
   title: Elaguage
   images:
-  - images/cards/elaguage/IMG_0622.jpg
-  - images/cards/elaguage/IMG_0623.jpg
-  - images/cards/elaguage/IMG_0624.jpg
-  - images/cards/elaguage/IMG_0625.jpg
-  - images/cards/elaguage/IMG_0626.jpg
-  - images/cards/elaguage/IMG_0627.jpg
+  - images/cards/elaguage/IMG_0622.JPG
+  - images/cards/elaguage/IMG_0623.JPG
+  - images/cards/elaguage/IMG_0624.JPG
+  - images/cards/elaguage/IMG_0625.JPG
+  - images/cards/elaguage/IMG_0626.JPG
+  - images/cards/elaguage/IMG_0627.JPG
 
 ################################################################################
 #                          DEFRICHAGE                                          #
@@ -365,7 +365,7 @@
 - id: modal_chauffage
   title: Bois de chauffage
   images:
-  - images/cards/bois_de_chauffage/IMG_0378.jpg
-  - images/cards/bois_de_chauffage/IMG_0379.jpg
-  - images/cards/bois_de_chauffage/IMG_0380.jpg
-  - images/cards/bois_de_chauffage/IMG_0381.jpg
+  - images/cards/bois_de_chauffage/IMG_0378.JPG
+  - images/cards/bois_de_chauffage/IMG_0379.JPG
+  - images/cards/bois_de_chauffage/IMG_0380.JPG
+  - images/cards/bois_de_chauffage/IMG_0381.JPG
