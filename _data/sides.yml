@@ -99,7 +99,7 @@
     - name: Mobiliers intérieur
       modalid: modal_menuiserie_interieure_mobilier_interieur
       showmodal: true
-    previousSide: menuiserie_interieure_detail
+    previousSide: menuiserie_interieure
 ################################################################################
 #                       MENUISERIE (AUTRES)                                    #
 ################################################################################
@@ -112,7 +112,7 @@
     - name: Aménagement de véhicule
       modalid: modal_menuiserie_autres_vehicule
       showmodal: true
-    previousSide: menuiserie_autres_detail
+    previousSide: menuiserie_autres
 ################################################################################
 #                       TERRASSEMENT                                           #
 ################################################################################
@@ -131,7 +131,7 @@
       modalid: modal_terrassement_deneigement
     - name: Rammassage de pierres
       modalid: modal_terrassement_rammassage
-    previousSide: terrassement_detail
+    previousSide: terrassement
 ################################################################################
 #                          BROYAGE                                             #
 ################################################################################
@@ -149,7 +149,7 @@
       modalid: modal_broyage_lamier
     - name: Épareuse (tout terrains)
       modalid: modal_broyage_epareuse
-    previousSide: broyage_detail
+    previousSide: broyage
 ################################################################################
 #                          ELAGUAGE                                            #
 ################################################################################
