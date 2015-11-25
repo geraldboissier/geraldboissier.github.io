@@ -147,8 +147,8 @@
   - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0958.JPG
   - images/cards/menuiserie_exterieure/bois/mobilier_urbain/IMG_0959.JPG
 ################################################################################
-- id: modal_menuiserie_exterieure_bois_calbouties
-  title: Menuiserie extérieure / Bois / Calbouties
+- id: modal_menuiserie_exterieure_bois_caillebotis
+  title: Menuiserie extérieure / Bois / Caillebotis
   images:
   - images/cards/menuiserie_exterieure/bois/calibouties/100-0005_IMG.JPG
   - images/cards/menuiserie_exterieure/bois/calibouties/100-0035_IMG.JPG
@@ -359,6 +359,11 @@
 ################################################################################
 - id: modal_broyage_vegetaux
   title: Broyage / Végétaux et plaquettes
+  videos:
+  - source: youtube
+    id: thsn8jhC6fk
+  - source: youtube
+    id: HWsQiX2mDlk  
 ################################################################################
 - id: modal_broyage_friches
   title: Broyage / Friches

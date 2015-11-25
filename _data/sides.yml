@@ -37,8 +37,8 @@
     - name: Mobilier urbain
       modalid: modal_menuiserie_exterieure_bois_mobilier
       showmodal: true
-    - name: Calbouties
-      modalid: modal_menuiserie_exterieure_bois_calbouties
+    - name: Caillebotis
+      modalid: modal_menuiserie_exterieure_bois_caillebotis
       showmodal: true
     previousSide: menuiserie_exterieure_detail
   ##############################################################################
@@ -143,6 +143,7 @@
     buttons:
     - name: Végétaux et plaquettes
       modalid: modal_broyage_vegetaux
+      showmodal: true
     - name: Friches
       modalid: modal_broyage_friches
     - name: Lamier
