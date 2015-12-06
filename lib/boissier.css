@@ -163,6 +163,10 @@
   transform: scale(0.96);
 }
 
+#section_contact .ribbon.label {
+  top: 12.5rem;
+}
+
 #section_contact #googlemap {
   height: 40em;
 }
