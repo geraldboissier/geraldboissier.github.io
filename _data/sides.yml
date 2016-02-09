@@ -26,8 +26,6 @@
     - name: Volets
       modalid: modal_menuiserie_exterieure_bois_volets
       showmodal: true
-    - name: Escaliers
-      modalid: modal_menuiserie_exterieure_bois_escaliers
     - name: Portails
       modalid: modal_menuiserie_exterieure_bois_portails
       showmodal: true
